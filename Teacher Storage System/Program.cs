@@ -50,6 +50,7 @@ namespace Teacher_Storage_System
                         break;
                     case 4:
                     default:
+                        System.Environment.Exit(0);
                         break;
 
                 }
