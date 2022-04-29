@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32126.315
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DSA", "DSA\DSA.csproj", "{D9ACF2DA-19EF-4D0C-8E42-88370AD06D4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DSA", "DSA\DSA.csproj", "{D9ACF2DA-19EF-4D0C-8E42-88370AD06D4C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Student Project", "Student Project\Student Project.csproj", "{2841C941-49ED-405E-BB4E-792805035A18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teacher Storage System", "Teacher Storage System\Teacher Storage System.csproj", "{81729143-D90B-4B54-BA06-C4D8F0B4E8FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{D9ACF2DA-19EF-4D0C-8E42-88370AD06D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9ACF2DA-19EF-4D0C-8E42-88370AD06D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9ACF2DA-19EF-4D0C-8E42-88370AD06D4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2841C941-49ED-405E-BB4E-792805035A18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2841C941-49ED-405E-BB4E-792805035A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2841C941-49ED-405E-BB4E-792805035A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2841C941-49ED-405E-BB4E-792805035A18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81729143-D90B-4B54-BA06-C4D8F0B4E8FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81729143-D90B-4B54-BA06-C4D8F0B4E8FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81729143-D90B-4B54-BA06-C4D8F0B4E8FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81729143-D90B-4B54-BA06-C4D8F0B4E8FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
